@@ -1,3 +1,5 @@
+![Banner Altin](https://user-images.githubusercontent.com/67205874/194417943-d20c4a41-2d15-4c04-b168-53da4e998aac.png)
+
 <h3 align="center">A Software Engineer, motivated by the power of technology as a tool for positive change.</h3>
 
 <h3 align="left">Connect with me:</h3>
