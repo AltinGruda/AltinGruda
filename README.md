@@ -1,4 +1,4 @@
-![Github banner](https://user-images.githubusercontent.com/67205874/194418793-571c4ea1-dceb-48d8-8005-8740f26cd0e7.png)
+![Github banner 821](https://user-images.githubusercontent.com/67205874/194419505-f64cd931-ddf0-4137-8fc4-390e26c7704d.png)
 
 
 <h3 align="center">A Software Engineer, motivated by the power of technology as a tool for positive change.</h3>
