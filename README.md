@@ -54,7 +54,7 @@
       <h3 align="center">crushyourinterview</h3>
         <br />
         <a target="_blank" href="https://crushyourinterview.vercel.app/">
-          <img src="https://github.com/AltinGruda/AltinGruda/assets/67205874/91e7ebd2-b56e-41fc-8713-5736eb20dfbb" width="100%" />
+          <img src="https://github.com/AltinGruda/AltinGruda/assets/67205874/ed03fed1-d757-4c3a-b1b6-1561abe03dd7" width="100%" />
         </a>
         <br />
         <p><strong>React, Node.js, Express, MongoDB, Tailwind</strong> - Your go-to platform for honing interview skills!</p>
