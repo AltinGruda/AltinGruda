@@ -21,7 +21,7 @@
       <h3 align="center">Methodize</h3>
         <br />
         <a target="_blank" href="https://github.com/AltinGruda/Methodize-v2">
-            ![image](https://github.com/AltinGruda/AltinGruda/assets/67205874/e90247bd-f38f-46c1-a596-d4cd2ed1bf2f)
+          <img src="https://github.com/AltinGruda/AltinGruda/assets/67205874/e90247bd-f38f-46c1-a596-d4cd2ed1bf2f" width="100%" />
         </a>
         <br />
         <p><strong>Typescript, Tailwind, Node.js, Express.js, MongoDB</strong> - Methodize is a project management tool. Methodize allows users to keep track of teams, projects, and tasks. Aims to enhance communication and boost efficiency for delivery of high-quality software products. Methodize was developed using TypeScript, Express, and React.</p>
@@ -30,7 +30,7 @@
       <h3 align="center">PEN</h3>
         <br />
       <a target="_blank" href="https://ngo-pen.com/">
-            ![image](https://github.com/AltinGruda/AltinGruda/assets/67205874/e4f847b8-301c-42c7-b26e-0daa4135dff3)
+          <img src="https://github.com/AltinGruda/AltinGruda/assets/67205874/e4f847b8-301c-42c7-b26e-0daa4135dff3" width="100%" />
         </a>
         <br />
         <p><strong>Javascript, Node.js, Tailwind</strong> - Web-based platform of an NGO that allows users to learn more about their projects, see their events, and various careers opportunities. There is an admin role for managing the website.</p>
@@ -42,7 +42,7 @@
       <h3 align="center">Lister</h3>
       <br />
         <a target="_blank" href="https://github.com/AltinGruda/lister">
-          ![lister](https://github.com/AltinGruda/AltinGruda/assets/67205874/6bc1a24d-fd7f-466e-9fb2-9116f7af4a07)
+          <img src="https://github.com/AltinGruda/AltinGruda/assets/67205874/6bc1a24d-fd7f-466e-9fb2-9116f7af4a07" width="100%" />
         </a>
       <br />
         <p><strong>React, React Query, MongoDB, Tailwind</strong> - This app is a web application with the purpose of displaying a list of YouTube Channels in a visually appealing way. The app fetches video data from the YouTube API and organizes it. The purpose of this is to watch all of the preferred Youtube Channels videos all in one place.</p>
@@ -51,7 +51,7 @@
       <h3 align="center">crushyourinterview</h3>
         <br />
         <a target="_blank" href="https://crushyourinterview.vercel.app/">
-          ![image](https://github.com/AltinGruda/AltinGruda/assets/67205874/91e7ebd2-b56e-41fc-8713-5736eb20dfbb)
+          <img src="https://github.com/AltinGruda/AltinGruda/assets/67205874/91e7ebd2-b56e-41fc-8713-5736eb20dfbb" width="100%" />
         </a>
         <br />
         <p><strong>React, Node.js, Express, MongoDB, Tailwind</strong> - Your go-to platform for honing interview skills!</p>
