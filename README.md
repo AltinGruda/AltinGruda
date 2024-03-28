@@ -11,7 +11,7 @@
 <a href="https://linkedin.com/in/altin-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="altin gruda" height="30" width="40" /></a>
 <h3 align="center">Portfolio:</h3>
 <p align="center">
-<a href="https://altingruda.vercel.app" target="blank"><img align="center" src="https://github.com/AltinGruda/AltinGruda/assets/67205874/a1eb1677-2874-45cc-a99a-df41ffe9867b" alt="portfolio" height="30" width="40" /></a>
+<a href="https://altingruda.vercel.app" target="_blank"><img align="center" src="https://github.com/AltinGruda/AltinGruda/assets/67205874/a1eb1677-2874-45cc-a99a-df41ffe9867b" alt="portfolio" height="40" width="40" /></a>
 
 </p>
 
