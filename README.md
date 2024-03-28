@@ -33,7 +33,7 @@
       <h3 align="center">PEN</h3>
         <br />
       <a target="_blank" href="https://ngo-pen.com/">
-          <img src="https://github.com/AltinGruda/AltinGruda/assets/67205874/e4f847b8-301c-42c7-b26e-0daa4135dff3" width="100%" />
+          <img src="https://github.com/AltinGruda/AltinGruda/assets/67205874/8d0fce32-dfce-4e7f-b458-4bd5253b951d" width="100%" />
         </a>
         <br />
         <p><strong>Javascript, Node.js, Tailwind</strong> - Web-based platform of an NGO that allows users to learn more about their projects, see their events, and various careers opportunities. There is an admin role for managing the website.</p>
