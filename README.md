@@ -18,6 +18,17 @@
 
 <h1 align="center">Projects</h1>
 <table bordercolor="#66b2b2">
+
+<tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Automated Log Retriever</h3>
+        <br />
+        <a target="_blank" href="https://github.com/AltinGruda/Automated-Log-Retrieval-Tool">
+          <img src="https://github.com/user-attachments/assets/0ff81c54-a279-438a-b3c7-d96705e002ea" width="100%" />
+        </a>
+        <br />
+        <p>A web-based tool to automate and simplify retrieving logcat logs from an Android device using Node.js, Express, React and ADBKit.</p>
+    </td>
   
   <tr>
     <td width="50%" valign="top">
