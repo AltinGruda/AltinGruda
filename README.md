@@ -29,8 +29,6 @@
         <br />
         <p>A web-based tool to automate and simplify retrieving logcat logs from an Android device using Node.js, Express, React and ADBKit.</p>
     </td>
-  
-  <tr>
     <td width="50%" valign="top">
       <h3 align="center">Methodize</h3>
         <br />
@@ -40,6 +38,8 @@
         <br />
         <p><strong>Typescript, Tailwind, Node.js, Express.js, MongoDB</strong> - Methodize is a project management tool. Methodize allows users to keep track of teams, projects, and tasks. Aims to enhance communication and boost efficiency for delivery of high-quality software products. Methodize was developed using TypeScript, Express, and React.</p>
     </td>
+</tr>
+<tr>
     <td width="50%" valign="top">
       <h3 align="center">PEN</h3>
         <br />
@@ -49,9 +49,6 @@
         <br />
         <p><strong>Javascript, Node.js, Tailwind</strong> - Web-based platform of an NGO that allows users to learn more about their projects, see their events, and various careers opportunities. There is an admin role for managing the website.</p>
     </td>
-  </tr>
-  
-  <tr>
     <td width="50%" valign="top">
       <h3 align="center">Lister</h3>
       <br />
@@ -61,6 +58,8 @@
       <br />
         <p><strong>React, React Query, MongoDB, Tailwind</strong> - This app is a web application with the purpose of displaying a list of YouTube Channels in a visually appealing way. The app fetches video data from the YouTube API and organizes it. The purpose of this is to watch all of the preferred Youtube Channels videos all in one place.</p>
     </td>
+</tr>
+<tr>
     <td width="50%" valign="top">
       <h3 align="center">crushyourinterview</h3>
         <br />
