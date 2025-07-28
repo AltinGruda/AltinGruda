@@ -14,6 +14,8 @@
 
 </p>
 
+![Codewars](https://github.r2v.ch/codewars?user=AltinGruda)
+
 ---
 
 <h1 align="center">Projects</h1>
