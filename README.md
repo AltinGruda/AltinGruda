@@ -14,9 +14,9 @@
 
 </p>
 
-<div align="center">
-    ![Codewars](https://github.r2v.ch/codewars?user=AltinGruda)
-</div>
+<p align="center">
+  <img src="https://github.r2v.ch/codewars?user=AltinGruda" alt="Codewars" />
+</p>
 
 ---
 
